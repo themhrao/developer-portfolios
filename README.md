@@ -11,6 +11,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
+[Kanwar Haseeb Ahmad](https://kanwarhaseebahmad.com/)
 [Patricia Aas](https://patricia.no/)  
 [Josef Aidt](https://josefaidt.dev)  
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/) 
